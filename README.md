@@ -1,1 +1,1 @@
-Spoticry is a basic microbit music player
+Spoticry is a basic Micro:bit music player, 🎵 Do whatever you want with it ✨
